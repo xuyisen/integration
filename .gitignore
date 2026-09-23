@@ -25,3 +25,8 @@ custom_components/hacs/translations
 
 # Home Assistant configuration
 config
+# Shell redirection artifacts
+=[0-9]*
+>[0-9]*
+*.tmp
+*.log
